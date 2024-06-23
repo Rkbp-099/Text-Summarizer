@@ -1,2 +1,2 @@
 # Text-Summarizer
-A text summarizer as part IR
+This project focuses on text summarization, exploring both extractive and abstractive techniques. The extractive approach uses BERT and K-Means clustering to select key sentences from the original text. The abstractive method employs an encoder-decoder model with attention to generate new summary text. Both techniques are implemented, tested, and compared using various datasets. The project covers the entire process from data preparation and model development to performance evaluation, aiming to create efficient automatic summarization tools that can handle large volumes of text data. The ultimate goal is to produce concise, coherent summaries that save time and reduce bias in information consumption.
